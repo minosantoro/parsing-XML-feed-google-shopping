@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+<channel>
+  
+<title>Il titolo del tuo feed</title>
+<link>http://www.tuodominio.it</link>
+<description>La descrizone del tuo feed</description>
+<item>
+<!-- Informazioni base del prodotto -->
+<g:id><![CDATA[ID prodotto]]></g:id>
+<title><![CDATA[Nome Prodotto]]></title>
+<link><![CDATA[http://www.tuodominio.it/url-prodotto.html]]></link>
+<description><![CDATA[Descrizione Prodotto]]></description>
+<g:product_type><![CDATA[Categorie assegnate al Prodotto]]></g:product_type>
+<g:google_product_category><![CDATA[Tassonomia dei prodotti di Google]]></g:google_product_category>
+<g:image_link><![CDATA[http://www.tuodominio.it/url-immagine.prodotto.jpg]]></g:image_link>
+<g:condition><![CDATA[Condizione Prodotto]]></g:condition>
+<!-- Disponibilità e Prezzo -->
+<g:availability><![CDATA[Disponibilità Prodotto]]></g:availability>
+<g:price><![CDATA[Prezzo Prodotto]]></g:price>
+<!-- Identificatori unici del prodotto-->
+<g:brand><![CDATA[Brand Prodotto]]></g:brand>
+<g:ean><![CDATA[EAN Prodotto]]></g:ean>
+<!-- Attributi AdWords -->
+<g:custom_label_0><![CDATA[Label personalizzata utilizzabile come filtro su merchant]]></g:custom_label_0>
+<!-- FINE Prodotto -->
+</item>
+
+</channel>
+</rss>
